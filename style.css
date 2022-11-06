@@ -1,0 +1,10 @@
+body{
+padding: 0;
+margin: 0;
+}
+.country{
+    font-size: 15px;
+}
+.container-fluid{
+background-color: coral;
+}
